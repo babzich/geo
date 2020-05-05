@@ -39,7 +39,7 @@ defmodule Geo.Mixfile do
       {:poison, "~> 4.0", only: :test},
       {:ex_doc, "~> 0.18", only: :dev},
       {:excoveralls, "~> 0.12.1", only: :test},
-      {:stream_data, "~> 0.4.3", only: :test},
+      {:stream_data, "~> 0.5.0", only: :test},
       {:benchee, "~> 1.0", only: :dev}
     ]
   end
